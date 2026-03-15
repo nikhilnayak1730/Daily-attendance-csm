@@ -398,8 +398,8 @@ textarea.inp{
    SUPABASE — replace with your actual keys
    https://supabase.com → Settings → API
    ═══════════════════════════════════════════════════════════════ */
-const SB_URL = 'YOUR_SUPABASE_URL';
-const SB_KEY = 'YOUR_SUPABASE_ANON_KEY';
+const SB_URL = 'https://wufcpjmriefjsknnumhz.supabase.co';
+const SB_KEY = 'sb_publishable_8G-GNOPRQki2x6sbD2lHfw_b7mmcCpR';
 
 /*
   ── ONE-TIME SQL (Supabase SQL Editor) ─────────────────────────
